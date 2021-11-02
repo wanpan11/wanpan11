@@ -2,11 +2,10 @@
 
 **⚡ Every expert was once a beginner, my bro.**
 <br/>&ensp;&ensp;
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=fff)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-343434?style=flat-square&logo=JavaScript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=fff)
 <!-- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=Tailwind-CSS&logoColor=fff) -->
 <!-- ![RxJS](https://img.shields.io/badge/RxJS-D81B60?style=flat-square&logo=RxJS&logoColor=fff) -->
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)
